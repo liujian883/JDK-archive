@@ -1,4 +1,4 @@
-<h2><sup><img src="icon_build_passing.png" alt=""/>&nbsp;<img src="icon_status_stable.png" alt=""/>&nbsp;<img src="icon_rating.png" alt=""/>&nbsp;<img src="icon_rating_count.png" alt=""/></sup></h2>
+<h2><sup><img src="resources/icon_build_passing.png" alt=""/>&nbsp;<img src="resources/icon_status_stable.png" alt=""/>&nbsp;<img src="resources/icon_rating.png" alt=""/>&nbsp;<img src="resources/icon_rating_count.png" alt=""/></sup></h2>
 <h1><img width="32" height="32" alt="" src="resources/icon_jdk.png"/> JDK Archive.</h1>
 <ul>
 <li>JDK setups (6/7/8/9 Winx86/Winx64).</li>
