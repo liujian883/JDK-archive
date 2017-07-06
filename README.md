@@ -1,4 +1,4 @@
-<h1><img alt="" src="resources/icon_jdk.png"/> JDK Archive.</h1>
+<h1><img width="24" height="24" alt="" src="resources/icon_jdk.png"/> JDK Archive.</h1>
 <ul>
 <li>JDK setups (6/7/8/9 Winx86/Winx64).</li>
 <li>Docs <sub><em>(<code>...-docs-all.zip</code>)</em></sub> (8/9).</li>
