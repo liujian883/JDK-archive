@@ -1,4 +1,4 @@
-<h1><a href="#"><img alt="" src="resources/icon_jdk.png"/></a> Sun/Oracle Java SE SDK - JDK Archive. - &nbsp; <sub><a target="_blank" href="https://paypal.me/e1adkarak0" rel="nofollow"><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png" width="60" height="16" border="0" alt="PayPal Donation"></a></sub></h1>
+<h1><a href="#"><img alt="" src="resources/icon_jdk.png"/></a> Sun/Oracle <em>Java SE SDK</em> - JDK Archive - &nbsp; <sub><a target="_blank" href="https://paypal.me/e1adkarak0" rel="nofollow"><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png" width="60" height="16" border="0" alt="PayPal Donation"></a></sub></h1>
 
 <br/>
 <sup><a href="#"><img src="resources/icon_build_passing.png" alt=""/></a>&nbsp;<a href="#"><img src="resources/icon_status_stable.png" alt=""/></a>&nbsp;<a href="#"><img src="resources/icon_rating.png" alt=""/></a>&nbsp;<a href="#"><img src="resources/icon_rating_count.png" alt=""/></a></sup>
