@@ -38,10 +38,10 @@ Windows x64
                    + <a href="jdk_1.9.0_176_windows_x64.7z.007" >#7/7 (00.91MB)</a> [early access snapshot 20170630]</li>
 </ul>
 
-<sub>Note: To install a JDK package, extract it using <code>7zip</code>- to a folder <br/>and double click the <a href="#"><img width="13" height="13" alt="" src="resources/icon_setup.png"/></a> MSI file.</sub>
+<sub>Note: To install a JDK package, <br/>extract with <code>7zip</code> to a new folder <br/>and double click the <a href="#"><img width="13" height="13" alt="" src="resources/icon_setup.png"/></a> MSI file.</sub>
 <br/>
 
-<h3>Docs</h3>
+Docs
 <ul>
   <li><del>For JDK 1.6</del> (unavailable)</li>
   <li><del>For JDK 1.7</del> (unavailable)</li>
@@ -49,7 +49,7 @@ Windows x64
   <li><a href="docs_9.7z">For JDK 1.9.0_176 (16.30MB)</a> [early access snapshot 20170630]</li>
 </ul>
 
-<h3>JCE Policy</h3>
+JCE Policy
 <ul>
   <li><a href="jce_policy_6.7z">For JDK 1.6 (6.91KB)</a> [20061116]</li>
   <li><a href="jce_policy_7.7z">For JDK 1.7 (5.35KB)</a> [20110531]</li>
@@ -57,6 +57,7 @@ Windows x64
   <li><del>For JDK 1.9</del> <a href="https://stackoverflow.com/questions/39097058/jce-zip-file-for-jdk-9">is no longer needed</a></li>
 </ul>
 
+<br/>
 
 Example for JAVA environment variables:
 <pre>
@@ -65,8 +66,7 @@ JRE_HOME    C:\PROGRA~1\Java\JDK17~1.0_8\jre
 PATH        (...add to existing...);C:\PROGRA~1\Java\JDK17~1.0_8\bin;
 </pre>
 
-Use old-DOS like 8.3 paths.
-<a href="https://gist.github.com/eladkarako/a250e2daa2f67a40437ecfae3d7641de"><strong>here is a batch file</strong></a> <br/> to help you get the short-path for each file or folder.<br/>
+<a href="https://gist.github.com/eladkarako/a250e2daa2f67a40437ecfae3d7641de">figure-out a folder's short-8.3-path format.</a>
 
 <br/>
 <br/>
