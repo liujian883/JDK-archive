@@ -58,6 +58,7 @@ Docs
   <li>
       <a href="docs_8.7z"        >For JDK 1.8.0_152 (27.70MB)</a> [early access snapshot y2017m06d21]<br/>
       <a href="docs_8_webdump.7z">web-dump of docs-8 website</a> <sub><a href="http://docs.oracle.com/javase/8/docs/">source</a></sub> [y2017m03d15]<br/>
+      <a href="docs_8_chm.7z"    >As <code>CHM</code> (Windows-Help File)</a> [y2011m08d31]<br/>
   </li>
   </li>
   <li><a href="docs_9.7z">For JDK 1.9.0_176 (16.30MB)</a> [early access snapshot y2017m06d30]</li>
