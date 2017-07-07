@@ -17,7 +17,7 @@ Windows x86
                    + <a href="jdk_1.9.0_176_windows_x86.7z.003" >#3/6 (48.00MB)</a>
                    + <a href="jdk_1.9.0_176_windows_x86.7z.004" >#4/6 (48.00MB)</a>
                    + <a href="jdk_1.9.0_176_windows_x86.7z.005" >#5/6 (48.00MB)</a>
-                   + <a href="jdk_1.9.0_176_windows_x86.7z.006" >#5/6 (38.90MB)</a> [early access snapshot 20170630]</li>
+                   + <a href="jdk_1.9.0_176_windows_x86.7z.006" >#6/6 (38.90MB)</a> [early access snapshot 20170630]</li>
 </ul>
 
 Windows x64
@@ -38,7 +38,7 @@ Windows x64
                    + <a href="jdk_1.9.0_176_windows_x64.7z.007" >#7/7 (00.91MB)</a> [early access snapshot 20170630]</li>
 </ul>
 
-<sub>Note: To install a JDK package, extract it using <code>7zip</code>,<br/>into a folder, and double click the <a href="#"><img width="16" height="16" alt="" src="resources/icon_setup.png"/></a>MSI file.</sub>
+<sub>Note: To install a JDK package, extract it using <code>7zip</code>- to a folder <br/>and double click the <a href="#"><img width="13" height="13" alt="" src="resources/icon_setup.png"/></a> MSI file.</sub>
 <br/>
 
 <h3>Docs</h3>
@@ -66,11 +66,9 @@ PATH        (...add to existing...);C:\PROGRA~1\Java\JDK17~1.0_8\bin;
 </pre>
 
 Use old-DOS like 8.3 paths.
-<a href="https://gist.github.com/eladkarako/a250e2daa2f67a40437ecfae3d7641de"><strong>here is a batch file</a></a> that will tell you
-the "old-DOS like 8.3 path" of every file or folder
-you drag&amp;drop over it. Use it with <code>c:\Program Files\Java\jdk1.7.0_80</code> (or whatever your Java path is).
+<a href="https://gist.github.com/eladkarako/a250e2daa2f67a40437ecfae3d7641de"><strong>here is a batch file</strong></a> <br/> to help you get the short-path for each file or folder.<br/>
 
 <br/>
 <br/>
 
-<a target="_blank" href="https://paypal.me/e1adkarak0" rel="nofollow"><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png" width="60" height="16" border="0" alt="PayPal Donation"></a>
+<a target="_blank" href="https://paypal.me/e1adkarak0" rel="nofollow"><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png" border="0" alt="PayPal Donation"></a>
