@@ -7,46 +7,44 @@
 Setup:
 <ul>
   <li>Windows x86:
-    <ul>
-      <li>JDK 1.6.0_45:  <a href="jdk_1.6.0_45_windows_x86.7z.001"  >#1/2 (48.00MB)</a> 
-                       + <a href="jdk_1.6.0_45_windows_x86.7z.002"  >#2/2 (16.70MB)</a> <sub><em>[y2013m04d01]</em></sub></li>
+    <ul><li>JDK 1.6.0_45:  <a href="jdk_1.6.0_45_windows_x86.7z.001"  >#1/2 (48.00MB)</a> 
+                         + <a href="jdk_1.6.0_45_windows_x86.7z.002"  >#2/2 (16.70MB)</a> <sub><em>[y2013m04d01]</em></sub></li>
 
-      <li>JDK 1.7.0_80:  <a href="jdk_1.7.0_80_windows_x86.7z.001"  >#1/3 (48.00MB)</a> 
-                       + <a href="jdk_1.7.0_80_windows_x86.7z.002"  >#2/3 (48.00MB)</a>
-                       + <a href="jdk_1.7.0_80_windows_x86.7z.003"  >#3/3 (34.80MB)</a> <sub><em>[y2015m04d10]</em></sub></li>
+        <li>JDK 1.7.0_80:  <a href="jdk_1.7.0_80_windows_x86.7z.001"  >#1/3 (48.00MB)</a> 
+                         + <a href="jdk_1.7.0_80_windows_x86.7z.002"  >#2/3 (48.00MB)</a>
+                         + <a href="jdk_1.7.0_80_windows_x86.7z.003"  >#3/3 (34.80MB)</a> <sub><em>[y2015m04d10]</em></sub></li>
 
-      <li>JDK 1.8.0_152: <a href="jdk_1.8.0_152_windows_x86.7z.001" >#1/3 (48.00MB)</a> 
-                       + <a href="jdk_1.8.0_152_windows_x86.7z.002" >#2/3 (48.00MB)</a>
-                       + <a href="jdk_1.8.0_152_windows_x86.7z.003" >#3/3 (34.50MB)</a> <sub><em>[early access snapshot y2017m06d21]</em></sub></li>
+        <li>JDK 1.8.0_152: <a href="jdk_1.8.0_152_windows_x86.7z.001" >#1/3 (48.00MB)</a> 
+                         + <a href="jdk_1.8.0_152_windows_x86.7z.002" >#2/3 (48.00MB)</a>
+                         + <a href="jdk_1.8.0_152_windows_x86.7z.003" >#3/3 (34.50MB)</a> <sub><em>[early access snapshot y2017m06d21]</em></sub></li>
 
-      <li>JDK 1.9.0_176: <a href="jdk_1.9.0_176_windows_x86.7z.001" >#1/6 (48.00MB)</a> 
-                       + <a href="jdk_1.9.0_176_windows_x86.7z.002" >#2/6 (48.00MB)</a>
-                       + <a href="jdk_1.9.0_176_windows_x86.7z.003" >#3/6 (48.00MB)</a>
-                       + <a href="jdk_1.9.0_176_windows_x86.7z.004" >#4/6 (48.00MB)</a>
-                       + <a href="jdk_1.9.0_176_windows_x86.7z.005" >#5/6 (48.00MB)</a>
-                       + <a href="jdk_1.9.0_176_windows_x86.7z.006" >#6/6 (38.90MB)</a> <sub><em>[early access snapshot y2017m06d30]</em></sub></li>
+        <li>JDK 1.9.0_176: <a href="jdk_1.9.0_176_windows_x86.7z.001" >#1/6 (48.00MB)</a> 
+                         + <a href="jdk_1.9.0_176_windows_x86.7z.002" >#2/6 (48.00MB)</a>
+                         + <a href="jdk_1.9.0_176_windows_x86.7z.003" >#3/6 (48.00MB)</a>
+                         + <a href="jdk_1.9.0_176_windows_x86.7z.004" >#4/6 (48.00MB)</a>
+                         + <a href="jdk_1.9.0_176_windows_x86.7z.005" >#5/6 (48.00MB)</a>
+                         + <a href="jdk_1.9.0_176_windows_x86.7z.006" >#6/6 (38.90MB)</a> <sub><em>[early access snapshot y2017m06d30]</em></sub></li>
     </ul>
   </li>
   <li>Windows x64:
-    <ul>
-      <li>JDK 1.6.0_45:  <a href="jdk_1.7.0_80_windows_x64.7z.001"  >#1/2 (48.00MB)</a> 
-                       + <a href="jdk_1.7.0_80_windows_x64.7z.003"  >#2/2 (11.10MB)</a> <sub><em>[y2013m04d01]</em></sub></li>
+    <ul><li>JDK 1.6.0_45:  <a href="jdk_1.7.0_80_windows_x64.7z.001"  >#1/2 (48.00MB)</a> 
+                         + <a href="jdk_1.7.0_80_windows_x64.7z.003"  >#2/2 (11.10MB)</a> <sub><em>[y2013m04d01]</em></sub></li>
 
-      <li>JDK 1.7.0_80:  <a href="jdk_1.7.0_80_windows_x64.7z.001"  >#1/3 (48.00MB)</a> 
-                       + <a href="jdk_1.7.0_80_windows_x64.7z.002"  >#2/3 (48.00MB)</a>
-                       + <a href="jdk_1.7.0_80_windows_x64.7z.003"  >#3/3 (37.40MB)</a> <sub><em>[y2015m04d10]</em></sub></li>
+        <li>JDK 1.7.0_80:  <a href="jdk_1.7.0_80_windows_x64.7z.001"  >#1/3 (48.00MB)</a> 
+                         + <a href="jdk_1.7.0_80_windows_x64.7z.002"  >#2/3 (48.00MB)</a>
+                         + <a href="jdk_1.7.0_80_windows_x64.7z.003"  >#3/3 (37.40MB)</a> <sub><em>[y2015m04d10]</em></sub></li>
 
-      <li>JDK 1.8.0_152: <a href="jdk_1.8.0_152_windows_x64.7z.001" >#1/3 (48.00MB)</a> 
-                       + <a href="jdk_1.8.0_152_windows_x64.7z.002" >#2/3 (48.00MB)</a>
-                       + <a href="jdk_1.8.0_152_windows_x64.7z.003" >#3/3 (41.20MB)</a> <sub><em>[early access snapshot y2017m06d21]</em></sub></li>
+        <li>JDK 1.8.0_152: <a href="jdk_1.8.0_152_windows_x64.7z.001" >#1/3 (48.00MB)</a> 
+                         + <a href="jdk_1.8.0_152_windows_x64.7z.002" >#2/3 (48.00MB)</a>
+                         + <a href="jdk_1.8.0_152_windows_x64.7z.003" >#3/3 (41.20MB)</a> <sub><em>[early access snapshot y2017m06d21]</em></sub></li>
 
-      <li>JDK 1.9.0_176: <a href="jdk_1.9.0_176_windows_x64.7z.001" >#1/7 (48.00MB)</a> 
-                       + <a href="jdk_1.9.0_176_windows_x64.7z.002" >#2/7 (48.00MB)</a>
-                       + <a href="jdk_1.9.0_176_windows_x64.7z.003" >#3/7 (48.00MB)</a>
-                       + <a href="jdk_1.9.0_176_windows_x64.7z.004" >#4/7 (48.00MB)</a>
-                       + <a href="jdk_1.9.0_176_windows_x64.7z.005" >#5/7 (48.00MB)</a>
-                       + <a href="jdk_1.9.0_176_windows_x64.7z.006" >#6/7 (48.00MB)</a>
-                       + <a href="jdk_1.9.0_176_windows_x64.7z.007" >#7/7 (00.91MB)</a> <sub><em>[early access snapshot y2017m06d30]</em></sub></li>
+        <li>JDK 1.9.0_176: <a href="jdk_1.9.0_176_windows_x64.7z.001" >#1/7 (48.00MB)</a> 
+                         + <a href="jdk_1.9.0_176_windows_x64.7z.002" >#2/7 (48.00MB)</a>
+                         + <a href="jdk_1.9.0_176_windows_x64.7z.003" >#3/7 (48.00MB)</a>
+                         + <a href="jdk_1.9.0_176_windows_x64.7z.004" >#4/7 (48.00MB)</a>
+                         + <a href="jdk_1.9.0_176_windows_x64.7z.005" >#5/7 (48.00MB)</a>
+                         + <a href="jdk_1.9.0_176_windows_x64.7z.006" >#6/7 (48.00MB)</a>
+                         + <a href="jdk_1.9.0_176_windows_x64.7z.007" >#7/7 (00.91MB)</a> <sub><em>[early access snapshot y2017m06d30]</em></sub></li>
     </ul>
   </li>
 </ul>
@@ -64,27 +62,24 @@ Setup:
 Docs
 <ul>
   <li>Original:
-    <ul>
-      <li><a href="docs_6.7z">For JDK 1.6.0_30  (22.30MB)</a> <sub><em>[y2011m12d01]</em></sub></li>
-      <li><a href="docs_7.7z">For JDK 1.7.0_11  (21.10MB)</a> <sub><em>[y2013m01d11]</em></sub></li>
-      <li><a href="docs_8.7z">For JDK 1.8.0_152 (27.70MB)</a> <sub><em>[early access snapshot y2017m06d21]</em></sub></li>
-      <li><a href="docs_9.7z">For JDK 1.9.0_176 (16.30MB)</a> <sub><em>[early access snapshot y2017m06d30]</em></sub></li>
+    <ul><li><a href="docs_6.7z">For JDK 1.6.0_30  (22.30MB)</a> <sub><em>[y2011m12d01]</em></sub></li>
+        <li><a href="docs_7.7z">For JDK 1.7.0_11  (21.10MB)</a> <sub><em>[y2013m01d11]</em></sub></li>
+        <li><a href="docs_8.7z">For JDK 1.8.0_152 (27.70MB)</a> <sub><em>[early access snapshot y2017m06d21]</em></sub></li>
+        <li><a href="docs_9.7z">For JDK 1.9.0_176 (16.30MB)</a> <sub><em>[early access snapshot y2017m06d30]</em></sub></li>
     </ul>
   </li>
   <li>Online mirror:
-    <ul>
-      <li><a href="docs_6_webdump.7z">JDK 6 (7.08MB)</a> <sup><a href="http://docs.oracle.com/javase/6/docs/">source</a></sup> <sub><em>[y2011m11d30]</em></sub></li>
-      <li><a href="docs_7_webdump.7z">JDK 7 (7.62MB)</a> <sup><a href="http://docs.oracle.com/javase/7/docs/">source</a></sup> <sub><em>[y2015m04d10]</em></sub></li>
-      <li><a href="docs_8_webdump.7z">JDK 8 (9.25MB)</a> <sup><a href="http://docs.oracle.com/javase/8/docs/">source</a></sup> <sub><em>[y2017m03d15]</em></sub></li>
-      <li><del>JDK 9</del> - unavailable</li>
+    <ul><li><a href="docs_6_webdump.7z">JDK 6 (7.08MB)</a> <sup><a href="http://docs.oracle.com/javase/6/docs/">source</a></sup> <sub><em>[y2011m11d30]</em></sub></li>
+        <li><a href="docs_7_webdump.7z">JDK 7 (7.62MB)</a> <sup><a href="http://docs.oracle.com/javase/7/docs/">source</a></sup> <sub><em>[y2015m04d10]</em></sub></li>
+        <li><a href="docs_8_webdump.7z">JDK 8 (9.25MB)</a> <sup><a href="http://docs.oracle.com/javase/8/docs/">source</a></sup> <sub><em>[y2017m03d15]</em></sub></li>
+        <li><del>JDK 9</del> - unavailable</li>
     </ul>
   </li>
   <li>As Windows help file <sup><em>(<a href="https://en.wikipedia.org/wiki/Microsoft_Compiled_HTML_Help">CHM</a>)</em></sup>:
-    <ul>
-      <li>JDK 6: <a href="docs_6_chm.7z.001">#1/2 (48.00MB)</a> + <a href="docs_6_chm.7z.002">#2/2 (03.08MB)</a> <sub><em>[y2006m12d21]</em></sub></li>
-      <li><a href="docs_7_chm.7z">JDK 7 (40.02MB)</a> <sub><em>[y2011m08d31]</em></sub></li>
-      <li><a href="docs_8_chm.7z">JDK 8 (43.20MB)</a> <sub><em>[y2014m03d20]</em></sub></li>
-      <li><del>JDK 9</del> - unavailable</li>
+    <ul><li>JDK 6: <a href="docs_6_chm.7z.001">#1/2 (48.00MB)</a> + <a href="docs_6_chm.7z.002">#2/2 (03.08MB)</a> <sub><em>[y2006m12d21]</em></sub></li>
+        <li><a href="docs_7_chm.7z">JDK 7 (40.02MB)</a> <sub><em>[y2011m08d31]</em></sub></li>
+        <li><a href="docs_8_chm.7z">JDK 8 (43.20MB)</a> <sub><em>[y2014m03d20]</em></sub></li>
+        <li><del>JDK 9</del> - unavailable</li>
     </ul>
   </li>
 </ul>
