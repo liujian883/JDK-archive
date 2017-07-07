@@ -1,4 +1,4 @@
-<sup><a href="#"><img src="resources/icon_build_passing.png" alt=""/></a>&nbsp;<a href="#"><img src="resources/icon_status_stable.png" alt=""/></a>&nbsp;<sup><a href="#"><img src="resources/icon_rating.png" alt=""/></a>&nbsp;<a href="#"><img src="resources/icon_rating_count.png" alt=""/></a> &nbsp; <sub><a target="_blank" href="https://paypal.me/e1adkarak0" rel="nofollow"><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png" width="60" height="16" border="0" alt="PayPal Donation"></a></sup></sup>
+<sup><a href="#"><img src="resources/icon_build_passing.png" alt=""/></a>&nbsp;<a href="#"><img src="resources/icon_status_stable.png" alt=""/></a>&nbsp;<a href="#"><img src="resources/icon_rating.png" alt=""/></a>&nbsp;<a href="#"><img src="resources/icon_rating_count.png" alt=""/></a> &nbsp; <a target="_blank" href="https://paypal.me/e1adkarak0" rel="nofollow"><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png" border="0" alt="PayPal Donation"></a></sup>
 
 <br/>
 <h2><a href="#"><img alt="" width="32" height="32" src="resources/icon_jdk.png"/></a> JDK Archive</h2>
