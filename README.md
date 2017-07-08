@@ -4,6 +4,7 @@
 <h2><a href="#"><img alt="" width="32" height="32" src="resources/icon_jdk.png"/></a> JDK Archive</h2>
 
 <br/>
+
 Setup:
 <ul>
 <li>Windows x86:
@@ -12,7 +13,7 @@ Setup:
 <li>JDK 1.7.0_80:  <a href="jdk_1.7.0_80_windows_x86.7z.001"  >#1/3 (48.00MB)</a> + <a href="jdk_1.7.0_80_windows_x86.7z.002"  >#2/3 (48.00MB)</a> + <a href="jdk_1.7.0_80_windows_x86.7z.003"  >#3/3 (34.80MB)</a> <sup><sub><em>[y2015m04d10]</em></sub></sup></li>
 <li>JDK 1.8.0_152: <a href="jdk_1.8.0_152_windows_x86.7z.001" >#1/3 (48.00MB)</a> + <a href="jdk_1.8.0_152_windows_x86.7z.002" >#2/3 (48.00MB)</a> + <a href="jdk_1.8.0_152_windows_x86.7z.003" >#3/3 (34.50MB)</a> <sup><sub><em>[early access snapshot y2017m06d21]</em></sub></sup></li>
 <li>JDK 1.9.0_176: <a href="jdk_1.9.0_176_windows_x86.7z.001" >#1/6 (48.00MB)</a> + <a href="jdk_1.9.0_176_windows_x86.7z.002" >#2/6 (48.00MB)</a> + <a href="jdk_1.9.0_176_windows_x86.7z.003" >#3/6 (48.00MB)</a> + <a href="jdk_1.9.0_176_windows_x86.7z.004" >#4/6 (48.00MB)</a> + <a href="jdk_1.9.0_176_windows_x86.7z.005" >#5/6 (48.00MB)</a> + <a href="jdk_1.9.0_176_windows_x86.7z.006" >#6/6 (38.90MB)</a> <sup><sub><em>[early access snapshot y2017m06d30]</em></sub></sup></li>
-</ul>
+</ul><br/>
 </li>
 <li>Windows x64:
 <ul>
@@ -20,7 +21,7 @@ Setup:
 <li>JDK 1.7.0_80:  <a href="jdk_1.7.0_80_windows_x64.7z.001"  >#1/3 (48.00MB)</a> + <a href="jdk_1.7.0_80_windows_x64.7z.002"  >#2/3 (48.00MB)</a> + <a href="jdk_1.7.0_80_windows_x64.7z.003"  >#3/3 (37.40MB)</a> <sup><sub><em>[y2015m04d10]</em></sub></sup></li>
 <li>JDK 1.8.0_152: <a href="jdk_1.8.0_152_windows_x64.7z.001" >#1/3 (48.00MB)</a> + <a href="jdk_1.8.0_152_windows_x64.7z.002" >#2/3 (48.00MB)</a> + <a href="jdk_1.8.0_152_windows_x64.7z.003" >#3/3 (41.20MB)</a> <sup><sub><em>[early access snapshot y2017m06d21]</em></sub></sup></li>
 <li>JDK 1.9.0_176: <a href="jdk_1.9.0_176_windows_x64.7z.001" >#1/7 (48.00MB)</a> + <a href="jdk_1.9.0_176_windows_x64.7z.002" >#2/7 (48.00MB)</a> + <a href="jdk_1.9.0_176_windows_x64.7z.003" >#3/7 (48.00MB)</a> + <a href="jdk_1.9.0_176_windows_x64.7z.004" >#4/7 (48.00MB)</a> + <a href="jdk_1.9.0_176_windows_x64.7z.005" >#5/7 (48.00MB)</a> + <a href="jdk_1.9.0_176_windows_x64.7z.006" >#6/7 (48.00MB)</a> + <a href="jdk_1.9.0_176_windows_x64.7z.007" >#7/7 (00.91MB)</a> <sup><sub><em>[early access snapshot y2017m06d30]</em></sub></sup></li>
-</ul>
+</ul><br/>
 </li>
 </ul>
 
